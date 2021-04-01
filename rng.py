@@ -19,4 +19,4 @@ def generate():
     return next
 
 if __name__ == "__main__()":
-    pass
+    set_seed(1000)
